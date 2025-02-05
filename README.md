@@ -34,7 +34,7 @@ Je suis un développeur (& graphique designer) passionné par le code et toujour
 
 ## 📫 Contact
 
-- **Email :** [ton.email@example.com](mailto:yumakitenge2@gmail.com)
+- **Email :** [yumakitenge2@gmail.com](mailto:yumakitenge2@gmail.com)
 - **Site web :** [Victoire Kitenge](https://victoirekitenge.tech)
 - **Facebook :** [Victoire Kitenge](https://www.facebook.com/victoire.kitenge.7)
 
@@ -45,7 +45,7 @@ Je suis un développeur (& graphique designer) passionné par le code et toujour
 ![Ton Stats](https://github-readme-stats.vercel.app/api?username=Victoire243&show_icons=true&theme=radical)
 
 <!-- Pour plus de statistiques, ajoutez d'autres badges ou graphiques -->
-![Top Langanges](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicoire243_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victoire243&langs_count=8)
 ---
 
 Merci de visiter mon profil !  
