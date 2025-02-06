@@ -45,7 +45,8 @@ Je suis un développeur (& graphique designer) passionné par le code et toujour
 ![Ton Stats](https://github-readme-stats.vercel.app/api?username=Victoire243&show_icons=true&theme=radical)
 
 <!-- Pour plus de statistiques, ajoutez d'autres badges ou graphiques -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victoire243&langs_count=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victoire243&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Victoire243&theme=radical) 
 ---
 
 Merci de visiter mon profil !  
