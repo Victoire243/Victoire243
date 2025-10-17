@@ -133,7 +133,6 @@ Je suis toujours ouvert à de nouveaux projets passionnants et à des collaborat
 - Projets open source
 - Collaborations techniques
 - Développement d'applications
-- Consulting UI/UX
 
 ---
 
