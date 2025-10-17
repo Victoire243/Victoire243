@@ -1,55 +1,55 @@
-# Bonjour, moi c'est [Victoire](https://victoirekitenge.tech) 👋
+# Hello, I'm [Victoire](https://victoirekitenge.tech) 👋
 
-Bienvenue sur mon profil GitHub !  
-Je suis un développeur (& graphique designer) passionné par le code et toujours curieux d'apprendre de nouvelles technologies.
-
----
-
-## 🔧 Technologies & Outils
-
-- **Langages :** Python, Dart
-- **Frameworks :** Flutter, Django
-- **Outils :** Git, VS Code
-- **Autres :** Adobe Photoshop, Adobe Illustrator, Adobe XD
+Welcome to my GitHub profile!  
+I'm a passionate developer & graphic designer who loves coding and is always eager to learn new technologies.
 
 ---
 
-## 💻 Projets en cours
+## 🔧 Technologies & Tools
 
-- **[Projet 1](https://github.com/Victoire243/flet_mobile_preview) :** is a Python package that provides a preview of an iPhone 13 interface using the Flet framework. This package allows you to simulate the appearance of an iPhone 13 on your desktop, making it easier to design and test mobile interfaces.
-- **[Projet 2](https://github.com/Victoire243/Entre-Nous) :** Application de messagerie simple et sécurisée pour la communication entre utilisateurs d'un même réseau (local).
-- **[Projet 3](https://github.com/Victoire243/shekinah_app) :** Logiciel de gestion de pharmacie, conçu spécialement pour la pharmacie Shekinah. Ce puissant outil offre une solution complète et intuitive pour gérer efficacement tous les aspects de votre pharmacie.
-
-*Je travaille actuellement sur des projets open source et personnels. N'hésite pas à jeter un œil et à contribuer !*
+- **Languages:** Python, Dart
+- **Frameworks:** Flutter, Django
+- **Tools:** Git, VS Code
+- **Design:** Adobe Photoshop, Adobe Illustrator, Adobe XD
 
 ---
 
-## 🌱 Ce que j'apprends
+## 💻 Current Projects
 
-- [ ] **Nouvelle technologie ou langage** (ex. Python, Dart, JavaScript.)
-- [ ] **Outils de développement**
-- [ ] **Bonnes pratiques**
+- **[Flet Mobile Preview](https://github.com/Victoire243/flet_mobile_preview):** A Python package that provides a preview of an iPhone 13 interface using the Flet framework. This package allows you to simulate the appearance of an iPhone 13 on your desktop, making it easier to design and test mobile interfaces.
+- **[Entre Nous](https://github.com/Victoire243/Entre-Nous):** A simple and secure messaging application for communication between users on the same local network.
+- **[Shekinah App](https://github.com/Victoire243/shekinah_app):** A pharmacy management software specially designed for Shekinah Pharmacy. This powerful tool offers a complete and intuitive solution to efficiently manage all aspects of your pharmacy.
+
+*I'm currently working on open source and personal projects. Feel free to take a look and contribute!*
+
+---
+
+## 🌱 What I'm Learning
+
+- [ ] **New technologies and languages** (e.g., Python, Dart, JavaScript)
+- [ ] **Development tools**
+- [ ] **Best practices**
 
 ---
 
 ## 📫 Contact
 
-- **Email :** [yumakitenge2@gmail.com](mailto:yumakitenge2@gmail.com)
-- **Site web :** [Victoire Kitenge](https://victoirekitenge.tech)
-- **Facebook :** [Victoire Kitenge](https://www.facebook.com/victoire.kitenge.7)
+- **Email:** [yumakitenge2@gmail.com](mailto:yumakitenge2@gmail.com)
+- **Website:** [Victoire Kitenge](https://victoirekitenge.tech)
+- **Facebook:** [Victoire Kitenge](https://www.facebook.com/victoire.kitenge.7)
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Statistics
 
-![Ton Stats](https://github-readme-stats.vercel.app/api?username=Victoire243&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Victoire243&show_icons=true&theme=radical)
 
-<!-- Pour plus de statistiques, ajoutez d'autres badges ou graphiques -->
+<!-- More statistics with additional badges and charts -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Victoire243&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Victoire243&theme=radical) 
 ---
 
-Merci de visiter mon profil !  
-N'hésite pas à me contacter si tu souhaites échanger ou collaborer sur un projet.
+Thank you for visiting my profile!  
+Feel free to contact me if you'd like to discuss or collaborate on a project.
 
-<!-- Optionnel : ajoute des GIFs, images ou badges pour personnaliser encore plus ton README -->
+<!-- Optional: add GIFs, images, or badges to further personalize your README -->
