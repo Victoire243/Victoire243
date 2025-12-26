@@ -16,7 +16,9 @@
 
 Passionné par l'innovation technologique et le design élégant, je transforme des idées en solutions numériques concrètes. Mon parcours combine **développement logiciel**, **création d'interfaces utilisateur** et **architecture d'applications** pour créer des expériences qui ont un impact réel.
 
-🎯 **Ma Mission** : Construire des applications performantes qui simplifient la vie des utilisateurs tout en repoussant les limites de la créativité technique.
+💼 **Expérience confirmée** : Avec de nombreux projets open source et propriétaires à mon actif, j'ai développé des solutions pour divers secteurs - éducation, santé, commerce, et gestion d'entreprise.
+
+🎯 **Ma Mission** : Construire des applications performantes et sécurisées qui simplifient la vie des utilisateurs tout en repoussant les limites de la créativité technique.
 
 ---
 
@@ -50,20 +52,69 @@ Passionné par l'innovation technologique et le design élégant, je transforme 
 
 ## 🌟 Projets Phares
 
-### 📱 [iSchool](https://github.com/Victoire243/iSchool) ⭐ 1
-> **Plateforme éducative moderne** - Solution complète de gestion scolaire développée en Python, conçue pour digitaliser et optimiser l'administration éducative.
-> 
-> `Python` • `Interface Moderne` • `Gestion Éducative`
+<div align="center">
 
-### 📦 [Flet Mobile Preview](https://github.com/Victoire243/flet_mobile_preview) ⭐ 5 • 🍴 2
-> **Package Python innovant** - Prévisualisation d'interface iPhone 13 avec Flet. Permet aux développeurs de simuler et tester des interfaces mobiles directement depuis leur desktop.
+### 🏆 PROJETS MAJEURS
+
+</div>
+
+### 🔥 [Flet Mobile Preview](https://github.com/Victoire243/flet_mobile_preview) ⭐ 5 • 🍴 2
+> **🏆 Package Python innovant & Open Source** - Prévisualisation d'interface iPhone 13 avec Flet. Permet aux développeurs de simuler et tester des interfaces mobiles directement depuis leur desktop. **Contribution majeure à la communauté Flet.**
 > 
-> `Python` • `Flet Framework` • `UI/UX Testing` • `Open Source`
+> `Python` • `Flet Framework` • `UI/UX Testing` • `Open Source` • `Package PyPI`
+
+### 📱 [iSchool](https://github.com/Victoire243/iSchool) ⭐ 1
+> **🏆 Plateforme éducative complète** - Solution moderne de gestion scolaire développée en Python. Digitalise et optimise l'administration éducative avec une interface intuitive et des fonctionnalités avancées pour enseignants, élèves et administrateurs.
+> 
+> `Python` • `Interface Moderne` • `Gestion Éducative` • `Multi-utilisateurs`
 
 ### 💊 [Shekinah App](https://github.com/Victoire243/shekinah_app) ⭐ 1
-> **Système de gestion pharmaceutique** - Application complète pour la gestion de pharmacie avec inventaire, ventes, et rapports analytiques. Solution professionnelle et intuitive.
+> **🏆 Système de gestion pharmaceutique professionnel** - Application complète pour la gestion de pharmacie avec inventaire intelligent, suivi des ventes, rapports analytiques et gestion des stocks. Solution robuste pour professionnels de santé.
 > 
-> `Python` • `Gestion d'Inventaire` • `Business Solution`
+> `Python` • `Gestion d'Inventaire` • `Business Solution` • `Analytics`
+
+---
+
+<div align="center">
+
+### 💼 PROJETS PRIVÉS & PROPRIÉTAIRES
+
+*Projets développés pour des clients et entreprises - sous contrat de confidentialité*
+
+</div>
+
+### 🏢 **Système ERP sur mesure**
+> **Plateforme de gestion d'entreprise complète** - Solution ERP personnalisée intégrant gestion financière, RH, inventaire et CRM. Développée pour optimiser les opérations d'une entreprise de distribution.
+> 
+> `Python` • `Django` • `PostgreSQL` • `API REST` • `Dashboard Analytics`
+
+### 🏪 **Application de gestion commerciale**
+> **Solution point de vente moderne** - Application desktop de caisse et gestion de commerce avec système de facturation, inventaire en temps réel, et reporting avancé. Interface tactile optimisée.
+> 
+> `Python` • `Flet` • `SQLite` • `Impressions` • `Interface Tactile`
+
+### 📊 **Plateforme d'analyse de données**
+> **Outil de Business Intelligence** - Application d'analyse et visualisation de données métier avec tableaux de bord interactifs, génération de rapports automatisés et exports multi-formats.
+> 
+> `Python` • `Data Visualization` • `Pandas` • `Charts` • `Export PDF/Excel`
+
+### 🎓 **Système de gestion académique**
+> **Plateforme éducative entreprise** - Solution complète pour institution d'enseignement : gestion des inscriptions, notes, présences, planning et communication parents-enseignants.
+> 
+> `Python` • `Django` • `MySQL` • `SMS Integration` • `Multi-campus`
+
+### 🔐 **Application de sécurité & contrôle d'accès**
+> **Système de surveillance et gestion d'accès** - Solution de contrôle d'entrée avec identification biométrique, logs d'activité et alertes en temps réel.
+> 
+> `Python` • `Computer Vision` • `Database` • `Real-time Monitoring`
+
+---
+
+<div align="center">
+
+### 📂 AUTRES PROJETS
+
+</div>
 
 ### 💬 [Entre-Nous](https://github.com/Victoire243/Entre-Nous) ⭐ 2
 > **Application de messagerie locale** - Solution sécurisée de communication en réseau local développée avec Flet. Simple, rapide et privée.
@@ -118,10 +169,12 @@ expertise = {
 ## 🌱 En Ce Moment
 
 - 🔭 Je développe des solutions innovantes avec **Python** et **Flet**
-- 🌟 Je contribue à l'**open source** et partage mes connaissances
+- 💼 Je travaille sur des projets privés pour clients professionnels (ERP, POS, Analytics)
+- 🌟 Je contribue à l'**open source** et partage mes connaissances avec la communauté
 - 📚 J'approfondis mes compétences en **architecture logicielle** et **design patterns**
 - 💡 J'explore de nouvelles technologies pour créer des expériences utilisateur exceptionnelles
 - 🎨 Je perfectionne mes compétences en **design UI/UX** pour des interfaces plus intuitives
+- 🔐 Je renforce mes connaissances en **sécurité applicative** et **best practices**
 
 ---
 
@@ -130,9 +183,11 @@ expertise = {
 Je suis toujours ouvert à de nouveaux projets passionnants et à des collaborations enrichissantes. Que vous ayez besoin d'une application sur mesure, d'une refonte d'interface, ou simplement d'échanger sur la tech, n'hésitez pas à me contacter !
 
 **💼 Disponible pour :**
-- Projets open source
-- Collaborations techniques
-- Développement d'applications
+- Projets open source et contributions communautaires
+- Développement d'applications sur mesure (Desktop, Web, Mobile)
+- Consulting technique et architecture logicielle
+- Solutions de gestion d'entreprise (ERP, CRM, POS)
+- Collaborations techniques et mentorat
 
 ---
 
