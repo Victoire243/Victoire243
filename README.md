@@ -59,19 +59,19 @@ Passionné par l'innovation technologique et le design élégant, je transforme 
 </div>
 
 ### 🔥 [Flet Mobile Preview](https://github.com/Victoire243/flet_mobile_preview) ⭐ 5 • 🍴 2
-> **🏆 Package Python innovant & Open Source** - Prévisualisation d'interface iPhone 13 avec Flet. Permet aux développeurs de simuler et tester des interfaces mobiles directement depuis leur desktop. **Contribution majeure à la communauté Flet.**
+> **🏆 Package Python Open Source** - Simulateur d'interface iPhone 13 pour Flet. Permet aux développeurs de prévisualiser et tester leurs interfaces mobiles directement depuis leur desktop. Supporte la personnalisation des couleurs du cadre, la barre de titre, les AppBar et FloatingActionButton. **Disponible sur PyPI.**
 > 
-> `Python` • `Flet Framework` • `UI/UX Testing` • `Open Source` • `Package PyPI`
+> `Python` • `Flet Framework` • `UI/UX Testing` • `Mobile Preview` • `PyPI Package`
 
-### 📱 [iSchool](https://github.com/Victoire243/iSchool) ⭐ 1
-> **🏆 Plateforme éducative complète** - Solution moderne de gestion scolaire développée en Python. Digitalise et optimise l'administration éducative avec une interface intuitive et des fonctionnalités avancées pour enseignants, élèves et administrateurs.
+### 📱 [iSchool](https://github.com/Victoire243/iSchool) ⭐ 3
+> **🏆 Application de gestion scolaire tout-en-un** - Plateforme complète pour l'administration éducative : gestion des élèves, inscriptions, classes, paiements scolaires, personnel, dépenses et caisse. Interface moderne avec API fictive (SQLite/Faker) pour tests et prototypage. Architecture modulaire avec frontend Flet.
 > 
-> `Python` • `Interface Moderne` • `Gestion Éducative` • `Multi-utilisateurs`
+> `Python` • `Flet` • `SQLAlchemy` • `SQLite` • `Gestion Éducative` • `API`
 
 ### 💊 [Shekinah App](https://github.com/Victoire243/shekinah_app) ⭐ 1
-> **🏆 Système de gestion pharmaceutique professionnel** - Application complète pour la gestion de pharmacie avec inventaire intelligent, suivi des ventes, rapports analytiques et gestion des stocks. Solution robuste pour professionnels de santé.
+> **🏆 Logiciel de gestion de pharmacie** - Solution complète pour pharmacie avec enregistrement de produits (nom, prix, description), gestion des stocks (entrées multiples de médicaments), gestion des ventes et génération de factures professionnelles. Interface moderne et intuitive développée avec Flet.
 > 
-> `Python` • `Gestion d'Inventaire` • `Business Solution` • `Analytics`
+> `Python` • `Flet` • `Gestion d'Inventaire` • `Facturation` • `Pharmacie`
 
 ---
 
@@ -117,19 +117,19 @@ Passionné par l'innovation technologique et le design élégant, je transforme 
 </div>
 
 ### 💬 [Entre-Nous](https://github.com/Victoire243/Entre-Nous) ⭐ 2
-> **Application de messagerie locale** - Solution sécurisée de communication en réseau local développée avec Flet. Simple, rapide et privée.
+> **Application de messagerie sécurisée en réseau local** - Communication simple et sécurisée entre utilisateurs d'un même réseau local avec chiffrement (pycryptodome). Architecture client-serveur développée en Python avec Flet. Solution rapide, privée et sans connexion internet requise.
 > 
-> `Python` • `Flet` • `Réseau Local` • `Messagerie`
+> `Python` • `Flet` • `Réseau Local` • `Chiffrement` • `Client-Serveur`
 
 ### 🎨 [MyPortfolio](https://github.com/Victoire243/myportfolio) ⭐ 1
-> **Site web portfolio personnel** - Vitrine créative de mes réalisations et compétences avec un design soigné et moderne.
+> **Site web portfolio personnel** - Vitrine en ligne de mes réalisations et compétences avec design soigné. Accessible sur [victoirekitenge.tech](https://victoirekitenge.tech).
 > 
-> `HTML` • `CSS` • `Web Design`
+> `HTML` • `CSS` • `JavaScript` • `Web Design`
 
 ### 🗺️ [TrackerApp](https://github.com/Victoire243/trackerapp)
-> **Application de suivi mobile** - Développée en Flutter/C++, solution cross-platform pour le tracking et la localisation.
+> **VTracker - Application de suivi de véhicules** - Suivi GPS en temps réel avec Firebase, zones de sécurité géolocalisées, notifications d'alertes, gestion multi-véhicules et carte interactive Google Maps. Solution mobile cross-platform pour particuliers et entreprises.
 > 
-> `Flutter` • `C++` • `Mobile Development`
+> `Flutter` • `Dart` • `Firebase` • `Google Maps API` • `GPS Tracking`
 
 ---
 
