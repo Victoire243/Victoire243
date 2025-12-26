@@ -99,7 +99,7 @@ Passionné par l'innovation technologique et le design élégant, je transforme 
 > `Python` • `Data Visualization` • `Pandas` • `Charts` • `Export PDF/Excel`
 
 ### 🎓 **Système de gestion académique**
-> **Plateforme éducative entreprise** - Solution complète pour institution d'enseignement : gestion des inscriptions, notes, présences, planning et communication parents-enseignants.
+> **Plateforme éducative d'entreprise** - Solution complète pour institution d'enseignement : gestion des inscriptions, notes, présences, planning et communication parents-enseignants.
 > 
 > `Python` • `Django` • `MySQL` • `SMS Integration` • `Multi-campus`
 
